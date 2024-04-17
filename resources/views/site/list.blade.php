@@ -16,15 +16,15 @@
 
             <h3 class="text-start">Links Criados</p>
 
-                <div class="d-flex justify-content">
+                <div class="p-2 g-col-6">
                     http://localhost/estudos
                     <button type="button" class="btn btn-outline-danger">Excluir</button>
                 </div>
-                <div>
+                <div class="p-2 g-col-6">
                     http://localhost/trabalho
                     <button type="button" class="btn btn-outline-danger">Excluir</button>
                 </div>
-                <div>
+                <div class="p-2 g-col-6">
                     http://localhost/formulario
                     <button type="button" class="btn btn-outline-danger">Excluir</button>
                 </div>
