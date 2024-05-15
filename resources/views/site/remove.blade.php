@@ -1,1 +1,4 @@
-<h1>Remove</h1>
+@extends('site.layouts.basic')
+@section('conteudo')
+
+@endsection
